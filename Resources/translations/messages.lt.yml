@@ -4,6 +4,6 @@
 sylius:
   form:
     priceable:
-      price: Ár
-      calculator: Árazás
-      configuration: Konfiguráció
+      price: Kaina
+      calculator: Kainodara
+      configuration: Konfigūracija
