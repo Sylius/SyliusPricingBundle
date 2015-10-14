@@ -4,12 +4,14 @@
 sylius:
   form:
     priceable:
-      price: Кошт
-      calculator: Цэнаўтварэнне
-      configuration: Канфігурацыя
+      price: Preço
+      calculator: Preços
+      configuration: Configuração
     pricing:
       volume_based:
-        price: Кошт
+        price: Preço
   pricing:
     volume_based:
-      price: Кошт
+      price: Preço
+      button:
+        add: Adicionar
